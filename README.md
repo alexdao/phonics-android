@@ -1,3 +1,2 @@
 # Phonics Android App
-Written by Alex Dao
-
+Android client for taking photos to be analyzed by the [server](https://github.com/alexdao/phonics-backend)
